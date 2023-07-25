@@ -1,4 +1,4 @@
-# react-native-tree-select
+# react-native-tree-select-typsa
 
 react-native-tree-select:树结构选择组件
 
